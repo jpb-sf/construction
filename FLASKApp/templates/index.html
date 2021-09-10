@@ -1,0 +1,203 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Jason Bergland Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		<link rel="shortcut icon" href="{{ url_for('static', filename='images/my_logo.svg')}}"/>
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}" />
+		<script src="https://kit.fontawesome.com/be24e5d254.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<div class="body">
+			<!-- Navigation (displayed on top for larger screens; at bottom for smaller screens) -->
+			<nav class="nav-menu">
+				<button class="home">
+					<img src="{{ url_for('static', filename='images/my_logo.svg')}}" class="logo" alt="hello">
+				</button>
+				<div class="nav-menu__container">
+					<button><h4 class="nav-btn pos-rel aln-cntr">Projects</h4></button>
+					<button><h4 class="nav-btn pos-rel aln-cntr">About</h4></button>
+					<button><h4 class="nav-btn pos-rel aln-cntr">Contact</h4></button>
+				</div>
+			</nav>
+			
+			<main class="main">
+				<article id="top" class="wrapper top">
+					<div class="container">
+						<div class="row aln-center">
+							<div class="col-8">
+								<header>
+									<h1>Hi. I'm Jason. I am a full stack web developer.</h1>
+								</header>
+							</div>
+						</div>
+					</div>
+				</article>
+
+				<article id="projects" class="wrapper style1">
+					<div class="container style1" >
+						<header>
+							<h2>Projects</h2>
+						</header>
+						<div class="row aln-center">
+							<div class="col-6-medium col-12-small">
+								<section class="box style1">
+									<a href="https://app1.jasonbergland.com" class="box-link">
+										<div class="box-top">
+											<img src="{{ url_for('static', filename='images/findo.svg')}}" class="img" alt="hello">
+											<div class="img-sidebar">
+												<h6>Python</h6>
+												<h6>Javascript</h6>
+												<h6>MySQL</h6>
+												<h6>Flask</h6>
+												<h6>CSS/HTML</h6>
+											</div>
+										</div>
+										<div class=box-text>
+											<h3>Organizer App</h3>
+											<p><em>Findo</em> is an organizer app for personal and household belongings. Designed within guidelines from a CS class, Findo features a member login, user interface, and server providing the user the ability to add, update, and delete their entries.</p>
+										</div>
+									</a>
+									<div class="git-wrapper maintenance1">
+										<a href="https://github.com/jpb-sf/findo.git" target="_blank" class="github">
+											<i class="fab fa-github git-color fa-2x"></i>
+										</a>
+									</div>
+								</section>
+							</div>
+							<div class="col-6-medium col-12-small">
+								<section class="box style1">
+									<a href="#" onclick="return false" class="box-link maintenance-link">
+										<div class="box-top">
+											<img src="{{ url_for('static', filename='images/news_clone.svg')}}" class="img" alt="hello">
+											<div class="img-sidebar">
+												<h6>CSS/HTML</h6>
+												<h6>Javascript</h6>
+											</div>
+										</div>
+										<div class="box-text">
+											<h3>News Site clone</h3>
+											<p>This was a clone website challenge; a re-creation of a newspaper's homepage. The restrictions for the project included avoiding peeking at the source code; using only self-written code.</p>
+										</div>
+									</a>
+									<div class="git-wrapper maintenance2">
+											<a href="" target="_blank" class="github maintenance__sub2">
+												<i class="fab fa-github git-color fa-2x"></i>
+											</a>
+									</div>
+								</section>
+							</div>	
+							<div class="col-6-medium col-12-small">
+								<section class="box style1">
+									<a href="https://app3.jasonbergland.com" class="box-link">
+										<div class="box-top">
+											<img src="{{ url_for('static', filename='images/cache.svg')}}" class="img" alt="hello">
+											<div class="img-sidebar">
+												<h6>Python</h6>
+												<h6>Javascript</h6>
+												<h6>MongoDB</h6>
+												<h6>Flask</h6>
+												<h6>CSS/HTML</h6>
+											</div>
+										</div>
+										<div class="box-text">
+											<h3>Cache Memory Simulation</h3>
+											<p> This is a small LRU cache solution which visualizes for the user the typical processes of an LRU cache system. Along with a designed terminal, the user is prompted to interact and enter values in the cache. This coincides with an ainmated table representing memory in space.</p>
+										</div>
+									</a>
+									<div class="git-wrapper maintenance3">
+										<a href="https://github.com/jpb-sf/cache" target="_blank" class="github">
+											<i class="fab fa-github git-color fa-2x"></i>
+										</a>
+									</div>
+								</section>
+							</div>	
+							<div class="col-6-medium col-12-small">
+								<section class="box style1">
+									<a href="https://app2.jasonbergland.com" class="box-link">
+										<div class="box-top">
+											<img src="{{ url_for('static', filename='images/yt_api_3_rc.svg')}}" class="img" alt="hello">
+											<div class="img-sidebar">
+												<h6>Python</h6>
+												<h6>Javascript</h6>
+												<h6>Flask</h6>
+												<h6>CSS/HTML</h6>
+											</div>
+										</div>
+										<div class="box-text">
+											<h3>API Data Collection</h3>
+											<p>This app gives its user the top search results of any Youtube search request. It does so by propting the user for a search query. The app then 'scrapes' Youtube's API, and returns the data in a compliled CSV spreadsheet. </p>
+										</div>
+									</a>
+									<div class="git-wrapper maintenance4">
+										<a href="https://github.com/jpb-sf/api_data_grab" target="_blank" class="github">
+											<i class="fab fa-github git-color fa-2x"></i>
+										</a>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+				</article>		
+
+				<!-- Portfolio -->
+				<article id="about" class="wrapper style2">
+					<div class="container style2">
+						<headers>
+							<h2>About Me</h2>
+						</header>
+						<div class="aboutme">
+							<p>My interest in becoming a fullstack software developer began while studying design at the Academy of Art in San Francisco. I’m a motivated, self starter. My computer science education has been through edX, an online portal for the top univeristies in the country.
+							<br> <span class="indent"> Javascript, and Python are my languages of choice. I am currently self employed, and am taking on new work. Feel free to contact me, I’m always excited for new opportunities to work with other passionate developers.</span>
+							</p>
+						</div>
+					</div>
+				</article>
+
+				<!-- Contact -->
+				<article id="contact" class="wrapper style3">
+					<div class="container medium">
+						<header>
+							<h2>Contact</h2>
+						</header>
+						<div class="row">
+							<div class="col-12 off-right-small">
+							<!-- <form method="post" action="#"> -->
+								  <form id="gform" method="post" class="pure-form pure-form-stacked"
+	     							 action="/">
+									<div class="row">
+										<div class="col-6-medium col-12-small">
+											<input type="text" name="name" placeholder="Name" required />
+										</div>
+										<div class="col-6-medium col-12-small">
+											<input type="email" name="email" placeholder="Email" required />
+										</div>
+										<div class="col-12">
+											<input type="text" name="subject" placeholder="Subject" />
+										</div>
+										<div class="col-12">
+											<textarea type="text" name="message" placeholder="Message"required></textarea>
+										</div>
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" value="Send Message" /></li>
+												<li><input type="reset" value="Clear Form" class="alt"/></li>
+											</ul>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</article>
+			</main>
+		</div>
+		<script src="{{ url_for('static', filename='js/portfolio.js')}}"></script>
+		<script data-cfasync="false" type="text/javascript"
+            src="https://cdn.rawgit.com/dwyl/learn-to-send-email-via-google-script-html-no-server/master/form-submission-handler.js">
+        </script>
+</body>
+</html>
+

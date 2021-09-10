@@ -1,0 +1,1603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"scroll",
+				"scrollY"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"remov",
+				"removeEventListener"
+			],
+			[
+				"off",
+				"offsetTop"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"margn",
+				"margin-left\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"table",
+				"table-cell\tdisplay"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-templat",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"f",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fir",
+				"firstElementChild"
+			],
+			[
+				"fis",
+				"firstElementChild"
+			],
+			[
+				"combine",
+				"combineOP1"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"mainText",
+				"mainText2"
+			],
+			[
+				"fi",
+				"firstChild"
+			],
+			[
+				"ins",
+				"insertBefore"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"op0",
+				"op0Img"
+			],
+			[
+				"First",
+				"firstChild"
+			],
+			[
+				"querySele",
+				"querySelectorAll"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"op",
+				"op1Wrap"
+			],
+			[
+				"op1",
+				"op1Wrap"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"op1W",
+				"op1WrapSub1"
+			],
+			[
+				"gra",
+				"gray-mid-light"
+			],
+			[
+				"gray-mi",
+				"gray-mid-light"
+			],
+			[
+				"gr",
+				"gray-light"
+			],
+			[
+				"mid",
+				"gray-mid-light"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"poi",
+				"position\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"grid-row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-a",
+				"grid-auto-columns\tproperty"
+			],
+			[
+				"grid-template",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"gray-l",
+				"gray-light"
+			],
+			[
+				"c",
+				"contain\tobject-fit"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"gray-m",
+				"gray-mid-dark"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"grid-tempa",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"get",
+				"getCurTemp"
+			],
+			[
+				"r",
+				"relative\tposition"
+			],
+			[
+				"csv",
+				"csv_writer"
+			],
+			[
+				"de",
+				"decorated_display"
+			],
+			[
+				"decora",
+				"decorator_function2"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"v",
+				"visibility\tproperty"
+			],
+			[
+				"visibl",
+				"visibility"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"tem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"arra",
+				"arraySwapper"
+			],
+			[
+				"remove",
+				"removeExtra"
+			],
+			[
+				"prim",
+				"prime_num2"
+			],
+			[
+				"nu",
+				"numberArray"
+			],
+			[
+				"sum",
+				"sumOfParts"
+			],
+			[
+				"s",
+				"sumOfParts"
+			],
+			[
+				"n",
+				"numberArr"
+			],
+			[
+				"si",
+				"singleFromSum"
+			],
+			[
+				"on",
+				"onlyLatin"
+			],
+			[
+				"temp",
+				"tempArr2"
+			],
+			[
+				"w",
+				"whichCase"
+			],
+			[
+				"ar",
+				"arraySpltr"
+			],
+			[
+				"swap",
+				"swapElem"
+			],
+			[
+				"las",
+				"lastElem"
+			],
+			[
+				"arr",
+				"arrayTest"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"ap",
+				"alpha"
+			],
+			[
+				"num",
+				"numCheck"
+			],
+			[
+				"bro",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# cd /Users/jasonbergland/Environments/letsgo \n# cd /Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev\\ Portfolio/Construction\n\nfrom flask import Flask, request, session, url_for, flash, redirect, render_template, json, jsonify\nimport os\nimport sys\nimport mailer\n\napp = Flask(__name__)\napp.config.from_object('config.DevelopmentConfig')\n\n\n@app.route('/', methods=['GET', 'POST'])\ndef backend():\n\n\tif request.method == 'POST':\n\t\tsubject = request.form.get('subject')\n\t\tprint(subject)\n\t\tname = request.form.get('name')\n\t\temail = request.form.get('email')\n\t\tcontent = request.form.get('message')\n\t\tmailer.send(subject, name, email, content)\n\t\tmailer.confirm(subject, name, email, content)\n\n\treturn render_template('index.html')\n\nif __name__ == '__main__':\n    app.run()\n",
+			"file": "portfolio.py",
+			"file_size": 807,
+			"file_write_time": 132500552110000000,
+			"settings":
+			{
+				"buffer_size": 781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import os\nimport smtplib\nfrom dotenv import load_dotenv\nfrom email.message import EmailMessage\n\nbasedir = os.path.abspath(os.path.dirname(__file__))\nload_dotenv(os.path.join(basedir, '.env'))\n\nEMAIL_ADDRESS = os.environ.get('EMAIL_USER')\nEMAIL_PASSWORD = os.environ.get('EMAIL_PASS')\nAUTO_GREET = os.environ.get('AUTO_GREET')\nAUTO_MSG = os.environ.get('AUTO_MSG')\n\n\ndef send(subject, name, email, content):\n\tmsg = None\n\tmsg = EmailMessage()\n\n\tmsg['Subject'] = subject \n\tmsg['From'] = EMAIL_ADDRESS\n\tmsg['To'] = EMAIL_ADDRESS\n\tmsg.set_content('From: ' + name  + \"\\n\" + 'Email Address: ' + email + '\\nSubject: ' + subject + '\\n \\n' + content)\n\t# msg.set_content(content)\n\twith smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:\n\n\t\tsmtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)\n\t\tsmtp.send_message(msg)\n\ndef confirm(subject, name, email, content):\n\n\tmsg = None\n\tmsg = EmailMessage()\n\tdmsg['Subject'] = '[Auto Reply] Thanks for reaching out!'\n\tmsg['From'] = EMAIL_ADDRESS\n\tmsg['To'] = email\n\tmsg.set_content(AUTO_GREET + \" \" + name + \",\\n\" + AUTO_MSG)\n\t# msg.set_content(content)\n\twith smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:\n\n\t\tsmtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)\n\t\tsmtp.send_message(msg)\n",
+			"file": "mailer.py",
+			"file_size": 1194,
+			"file_write_time": 132501359490000000,
+			"settings":
+			{
+				"buffer_size": 1195,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/portfolio.js",
+			"settings":
+			{
+				"buffer_size": 3056,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 7958,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"virtua",
+				"Virtualenv: Add directory"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 135.0,
+		"history":
+		[
+			"pip install psycopg2",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/static",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/static/css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/static/js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/templates"
+	],
+	"file_history":
+	[
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/static/css/css selectors 3.png",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/final.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/.env",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/templates/index.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/static/css/main.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/portfolio.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/mailer.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/all.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/index.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/register.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/category.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/templates/index.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/portfolio.sublime-workspace",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/cache.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/index_c.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/static/final.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/.env",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/config.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata_ext.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata_og.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata_page2.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/edit.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/YT_Data/ytdata.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/layout.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/sidebar.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/sorry.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/login.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/Templates/location.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/css/main_c.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/js/portfolio.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/final.sublime-workspace",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/This is from the web/html5up-miniport/assets/css/main.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/js/change_logo.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/Final/final-v.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/index.html",
+		"/Users/jasonbergland/databasing/db.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/mail.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/This is from the web/html5up-miniport/index.html",
+		"/Users/jasonbergland/Desktop/mail.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/HTML CSS practice 2018/animation.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/HTML CSS practice 2018/animation.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats_3.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/cheat_3.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats4.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats4.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats copy.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats copy.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats_.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheat_3.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/CSS cheats/css_cheats.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/util.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/css/main.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/main.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/jquery.scrolly.min.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/jquery.min.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/browser.min.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/assets/js/breakpoints.min.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Dev Portfolio/Construction/Downloaded templates/html5up-miniport/assets/css/main.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT/scripts/search.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT/scripts/date_weather.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT/NYT_Grid.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT/styles/NYT_MQ.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT/styles/NYT_Grid.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT redo attempt/styles/NYT_MQ_redo.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/NYT redo attempt/styles/NYT_Grid_redo.css",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/piping.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/import_export_practice/main.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/import_export_practice/import_export_test.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/js_classes.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/JS_newer_methods.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/promises_3.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/play.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/async:await.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/destructure.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/asynchronous_test.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/HTML CSS practice 2018/untitled.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/looping objects arrays.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/import_export_practice/helper.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/forEach__or__for loop.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/higher_order_pratice.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/main.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/import_export_test.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/promises.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/spread_rest.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python Pratice/whateves.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/higher_order_pratice",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python Pratice/test.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/reduce_advanced.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/Arry_filter.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/spread_reat.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Data structure stuff/trie_play.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS exercises/callbacks.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py_objects.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Data structure stuff/:* Trie Data Structure *.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py__generators.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py__iterators.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/py_vs_ js__generators.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/py_vs_js_iterators.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py__functions.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py_1.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py__functionshtml",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/js_vs_py__geneartors.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Data structure stuff/test.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/JS practice projects/JS Project Caulculator 3/index_calc3.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Data structure stuff/:* Trie Data Structure *.js",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/test.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/tester.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/week 7/Survey App copy/app.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/CS50 Harvard/week 7/Similarities App/application.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/cache4.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/cache3.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Cache/cache2.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Python 2/cache4.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Python 2/cache3.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Python 2/cache2.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Python 2/cache.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/py_vs_js_1.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/Python 2/cache_project.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python Pratice/generators.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/DevProjects/py_play2.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/python_vs_js__iterators.html",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python Pratice/iterators.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/python_generators.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/python_vs_js_1.py",
+		"/Users/jasonbergland/Documents/Projects/FrontDEV/Practice/Python vs JS/generators1.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"__init__",
+			"logo",
+			"mainsub",
+			"/static/css/fontawesome-all.min.css",
+			"background",
+			"image",
+			".img"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "portfolio.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								49
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mailer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1028,
+										1029
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1024,
+										1025
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/js/portfolio.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2946,
+								2946
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6648,
+								6648
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6648,
+										6649
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6643,
+										6644
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2857.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 309.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/User/letsgo.sublime-build",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			],
+			[
+				"g",
+				"~/Documents/Projects/FrontDEV/DevProjects/Js Practice/JS little exercises/2019/02_11_change_position_of_char.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
