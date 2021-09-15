@@ -118,9 +118,21 @@ mark {
 		font-size: 11pt;
 	}
 
+	header {
+		font-weight: 500;
+	}
+
 	p {
 		line-height: 2rem;
 		font-size: 1.2em;
+		font-weight: 300;
+	}
+
+	/*Chrome */
+	@media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+	   p {
+	   	font-weight: 400;
+	   }
 	}
 
 	a {
@@ -182,7 +194,7 @@ mark {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 4.25em;
 		letter-spacing: -0.025em;
-		font-weight: 300;
+		font-weight: 500;
 		line-height: 5rem;
 		margin: 14rem 8rem 0 8rem;
 	}
@@ -264,26 +276,26 @@ button {
 		margin-bottom: 0;
 	}
 
-/*
-==============================
+
+/*==============================
   HTML Elements Media Query
-==============================
+==============================*/
 
 	@media screen and (max-width: 1280px) {
 
-		/* Basic */
+		 /*Basic */
 
 			body {
 				font-size: 11pt;
 			}
 
-			input, textarea, select {
+			input, button, textarea, select {
 				font-size: 11pt;
 			}
 
-		/*	header {
-				margin: 0 0 3rem 0;
-			}*/
+			header {
+				margin: 0 0 0rem 0;
+			}
 
 			h2 {
 				padding-bottom: 0rem;
@@ -322,7 +334,7 @@ button {
 
 			/* Basic */
 
-			body, input, textarea, select {
+			body, input, button, textarea, select {
 				line-height: 1.75em;
 				font-size: 10pt;
 				letter-spacing: 0;
@@ -363,7 +375,7 @@ button {
 			}
 
 			header {
-				padding-bottom: .5rem;
+				padding-bottom: 0rem;
 			}
 
 			header > p {
@@ -399,7 +411,7 @@ button {
 /* Mobile */
 	@media screen and (max-width: 505px) {
 			header {
-				padding-bottom: .25rem;
+				padding-bottom: 0rem;
 			}
 
 			h2 {
@@ -686,6 +698,10 @@ button {
 		.row > .col-6-medium {
 			width: 50%;
 		}
+		
+		.row > .col-6-margin {
+			width: calc(50% - 6px);
+		}
 
 		.row > .col-12 {
 			width: 100%;
@@ -775,18 +791,18 @@ button {
 		.container.style1 {
 			padding-bottom: 0rem;
 		}
-			
-		.container.style2 {
-			width: 800px;
-			/*padding-top: 4rem;*/
-			padding-bottom: 2rem;
-		}
 			.style1 p {
 				font-size: 1.1rem;
 				line-height: 1.9rem;
 				max-width: 42rem;
 				padding-right: .25rem;
+				color: #444;
 			}
+			
+		.container.style2 {
+			width: 800px;
+			padding-bottom: 2rem;
+		}
 
 			.style2 .aboutme {
 				margin-top: -.5rem;
@@ -799,14 +815,22 @@ button {
 				text-align: left;
 				line-height: 2rem;
 				max-width: 65ch;
-				padding-top: -1rem; 
+				padding-top: -1rem;
+
 			}
 				.style2 p::first-letter {
 					/* dropcap */
 					font-size: 4.1rem;
 					float: left;
+					margin-top: .95rem;
+				}
+				
+			/* Firefox */
+			@-moz-document url-prefix() {
+			 .style2 p::first-letter {
 					margin-top: .55rem;
 				}
+			}
 			
 			.style2	.indent {
 				display: block;
@@ -829,7 +853,7 @@ button {
 			/*margins for about me*/
 			.style2 p {
 				font-size: 1.2rem;
-				margin: 0rem 4rem;
+				margin: 0rem 4rem 1rem 4rem;
 				font-size: 1.1rem;
 			}
 		}
@@ -898,7 +922,7 @@ button {
 
 			/*margins for about me*/
 				.style2 p {
-					margin: 0rem 3.5rem;
+					margin: 0rem 3rem;
 				}
 		} 	
 		@media screen and (max-width: 450px) {
@@ -906,8 +930,14 @@ button {
 				.style2 p::first-letter {
 					font-size: 4rem;
 					float: left;
-					margin-top: 1rem;
+					margin-top: .9rem;
 				}
+			/* Firefox */
+			@-moz-document url-prefix() {
+			 .style2 p::first-letter {
+					margin-top: .65rem;
+				}
+			}
 		}
 
 /* Box */
@@ -934,17 +964,17 @@ button {
 		}
 		
 		.box .img {
-			/*position: relative;*/
+			position: relative;
 			width: calc(100% - 8rem);
-			/* It took one day to figure this out. It makes the image height the dominant sibling height. height to stay at 100%*/
-			/*height: 100%;*/
+			/* It took one day to figure this out for Safari. It makes the image height the dominant sibling height. height to stay at 100% */
+			height: 100%;
 		}
 
 		.box .img-sidebar{
 			display: block;
-			/*position: relative;*/
+			position: relative;
 			width: 8rem;
-			/*height: auto;*/
+			height: auto;
 			padding: .5rem 0rem 0 1rem;
 			background: #EEE;
 		}
@@ -981,6 +1011,16 @@ button {
 			padding: .7rem .8rem .5rem 2rem;
 			line-height: 1rem;
 		}
+
+	/* Medium */
+
+	@media screen and (max-width: 980px) {
+
+		.box .img-sidebar {
+			width: 6.1rem;
+			padding: .5rem 1em 0 .7rem;
+		}
+	}
 
 /* small */	
 
@@ -1083,9 +1123,14 @@ button {
 			box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025), inset 0px 0px 1px 1px #43bff0;
 		}
 
+	form .row > div:nth-child(2)
+	{
+		margin-left: .6rem;
+	}
+
 	input:required:invalid, input:focus:invalid {
-  	/* insert your own styles for invalid form input */
-  	-moz-box-shadow: none;
+  		/* insert your own styles for invalid form input */
+  		-moz-box-shadow: none;
 	}
 
 	form textarea {
@@ -1115,15 +1160,10 @@ button {
 	ul.actions {
 		list-style: none;
 		padding-left: 0;
+		width: 100%;
+		margin-left: 1rem;
 	}
 
-		ul.actions li {
-			padding: 0rem 0;
-			padding-top: 1rem;
-			display: inline-block;
-			margin: 0 0 0 1em;
-		}
-		/* form buttons*/
 		ul.actions input {
 			padding: 0rem 1rem;
 			font-family: helvetica neue, open sans, sans-serif;
@@ -1131,8 +1171,20 @@ button {
 			letter-spacing: 1px;
 		}
 
-			ul.actions li:first-child {
-				margin-left: 0;
+		ul.actions li {
+			padding: 0rem 0;
+			display: inline-block;
+			margin-right: .5rem;
+		}
+			ul.actions button {
+				padding: 1rem 1rem;
+				font-family: helvetica neue, open sans, sans-serif;
+				font-weight: 500;
+				letter-spacing: 1px;
+				background: yellow;
+				border: 1px solid #444;
+				background-color: #eee;
+				border-radius: 4px;
 			}
 
 /* Large */
@@ -1145,6 +1197,14 @@ button {
 		form select:focus,
 		form textarea:focus { 
 			box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025), inset 0px 0px 2px 2px #43bff0;
+			z-index: 100;
+		}
+	}
+
+	@media screen and (max-width: 700px) {
+		form > .row > div:nth-child(2)
+		{
+			margin-left: 0rem;
 		}
 	}
 
