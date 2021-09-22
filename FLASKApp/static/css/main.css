@@ -18,9 +18,7 @@
 
 4. Components (buttons,etc)
 
-*/
 
-/*
 ===========
   Global
 ===========
@@ -79,7 +77,6 @@ body {
 ol, ul {
 	list-style: none;
 }
-
 
 /*
 ===============
@@ -382,7 +379,8 @@ button {
 		h1 {
 			font-size: 2.3rem;
 			margin: 7rem 2rem 0 2rem;
-	}
+		}
+}
 	
 /*
 ===========
@@ -421,14 +419,9 @@ button {
 	#contact footer {
 		margin: 0;
 	}
-}
 
-@media screen and (max-width: 1280px) {
 
-	/*	#top {
-			padding: 7em 0;
-		}
-*/
+	@media screen and (max-width: 1280px) {
 			#top .image {
 				width: 24em;
 				height: 24em;
@@ -436,14 +429,13 @@ button {
 			}
 	}
 
-@media screen and (max-width: 980px) {
-
-	/* Articles */
-
+	@media screen and (max-width: 980px) {
+		/* Articles */
 		#top .image {
 			margin: 0 auto 2rem auto;
 		}
-}
+	}
+
 
 /*
 ============
@@ -505,7 +497,6 @@ button {
 /* medium */
 	
 	@media screen and (max-width: 980px) {
-		
 		.nav-menu {
 			position: fixed;
 			top: auto;
@@ -522,11 +513,10 @@ button {
 			width: 24rem;
 		}
 	}
-	
+		
 /* small */
 
 	@media screen and (max-width: 700px) {
-
 		.nav-menu {
 			height: 55px;
 		}
@@ -549,25 +539,24 @@ button {
 /* mobile */
 	
 	@media screen and (max-width: 500px) {
+		.nav-menu {
+			height: 55px;
+		}
 
-	.nav-menu {
-		height: 55px;
-	}
+		.nav-menu > .home {
+			margin-top: .5rem;
+			left: .25rem;
+		}
+		
+		.nav-menu .logo {
+			margin-top: .3rem;
+			width: 30px;
+		}
 
-	.nav-menu > .home {
-		margin-top: .5rem;
-		left: .25rem;
+		.nav-menu > .nav-menu__container {
+			width: 16rem;
+		}
 	}
-	
-	.nav-menu .logo {
-		margin-top: .3rem;
-		width: 30px;
-	}
-
-	.nav-menu > .nav-menu__container {
-		width: 16rem;
-	}
-}
 
 /* Wrappers (with media queries) */
 
@@ -611,7 +600,6 @@ button {
 
 
 	@media screen and (max-width: 700px) {
-			
 		.wrapper.top {
 			height: 26rem;
 		}
@@ -639,6 +627,9 @@ button {
 			padding-right: 0rem;
 		}
 
+		.row > .col-12-small {
+				width: 100%;
+			}
 		.row > .col-6-medium {
 			width: 50%;
 		}
@@ -657,25 +648,22 @@ button {
 	/* Extra Large */
 		
 		@media screen and (max-width: 1680px) {
-
-				.row > .pad-right-small {
-					padding-right: 0rem;
-				}
+			.row > .pad-right-small {
+				padding-right: 0rem;
+			}
 		}
 	
 	/* Large */
 
 		@media screen and (max-width: 1280px) {
-
-				.row > .pad-right-small {
-					padding-right: 1.5rem;
-				}
+			.row > .pad-right-small {
+				padding-right: 1.5rem;
+			}
 		}
 
 	/* Medium */
 
 	@media screen and (max-width: 980px) {
-
 		.row {
 			padding-right: 30px;
 			padding-left: 10px;
@@ -686,12 +674,11 @@ button {
 		}
 	}
 			
-
 	/* small */	
 
 		@media screen and (max-width: 700px) {
 			.row > .col-12-small {
-					width: 100%;
+				width: 100%;
 			}
 		
 			.row > .pad-right-small {
@@ -700,11 +687,9 @@ button {
 		}
 
 		@media screen and (max-width: 506px) {
-
 			.row {
 				padding-right: .7rem;
 			}
-
 				.row > *:not(header) {
 					padding: 0px 0 10px .5px;
 				}
@@ -722,12 +707,6 @@ button {
 		padding: 1rem 0 0rem 0;
 		text-align: center;
 	}
-		.container.medium {
-			margin-top: -2rem;
-			width: 900px;
-			padding-bottom: 4rem;
-		}
-
 		.container.style1 {
 			padding-bottom: 0rem;
 		}
@@ -777,16 +756,20 @@ button {
 				text-indent: 15%;
 			}
 
+		.container.style3 {
+			margin-top: -2rem;
+			width: 900px;
+			padding-bottom: 4rem;
+		}
 /* Large */
 		
 		@media screen and (max-width: 1280px) {
-
 			.container {
 				margin: 0 auto;
 				width: 960px;
 			}
 				
-				.container.medium {
+				.container.style3 {
 					width: 720px;
 				}
 			
@@ -800,7 +783,6 @@ button {
 	/* Medium */
 
 		@media screen and (max-width: 980px) {
-
 			.container {
 				width: 100%;
 			}
@@ -808,7 +790,7 @@ button {
 					font-size: 1.1rem;
 				}
 				
-				.container.medium {
+				.container.style3 {
 					width: 90%;
 					padding-top: 1rem;
 					padding-bottom: 7rem;
@@ -817,34 +799,32 @@ button {
 		
 	/* Small */
 		@media screen and (max-width: 700px) {
-				.container {
-					width: 95%;
-				}
+			.container {
+				width: 95%;
+			}
 
-				.container.medium {
-					width: 100%;
-				}
+			.container.style3 {
+				width: 100%;
+			}
 
-				.style1 p {
-					font-size: 1.1rem;
-					padding-bottom: .3rem;
-					margin-right: .25rem;
-				}
+			.style1 p {
+				font-size: 1.1rem;
+				padding-bottom: .3rem;
+				margin-right: .25rem;
+			}
 
-				.style2 p {
-					margin-top: 1rem;
-					font-size: 1.1rem;
-				}
-	
+			.style2 p {
+				margin-top: 1rem;
+				font-size: 1.1rem;
+			}
 		}
 	/* Mobile */
 		@media screen and (max-width: 500px) {
-			
 			.container {
 				padding: 0;
 			}
 
-			.container.medium {
+			.container.style3 {
 				padding-top: 0rem;
 				width: 90%;
 			}
@@ -909,7 +889,7 @@ button {
 			height: 100%;
 		}
 
-		.box .img-sidebar{
+		.box .img-sidebar {
 			display: block;
 			position: relative;
 			width: 8rem;
@@ -954,7 +934,6 @@ button {
 	/* Medium */
 
 	@media screen and (max-width: 980px) {
-
 		.box .img-sidebar {
 			width: 6.1rem;
 			padding: .5rem 1em 0 .7rem;
@@ -965,7 +944,6 @@ button {
 
 	@media screen and (max-width: 700px) {
 		.box {
-			
 			margin: 0 0 20px 0 !important;
 		}
 		.box.style1 {
@@ -978,12 +956,12 @@ button {
 		}
 
 		.box .img {
-			width: calc(100% - 6rem);
+			width: calc(100% - 7.5rem);
 		}
 
 		.box .img-sidebar {
-			width: 6rem;
-			padding: .5rem 1em 0 .5rem;
+			width: 7.5rem;
+			padding: .5rem 1em 0 .7rem;
 		}
 
 		.box h3 {
@@ -1127,7 +1105,6 @@ button {
 /* Large */
 
 	@media screen and (max-width: 1280px) {
-
 		form input[type=text]:focus,
 		form input[type=email]:focus,
 		form input[type=password]:focus,

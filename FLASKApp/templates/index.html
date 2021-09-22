@@ -69,6 +69,7 @@
 							</div>
 							<div class="col-6-medium col-12-small">
 								<section class="box style1">
+									<!-- anchor return false prevents the page from reloading -->
 									<a href="#" onclick="return false" class="box-link maintenance-link">
 										<div class="box-top">
 											<img src="{{ url_for('static', filename='images/news_clone.svg')}}" class="img" alt="hello">
@@ -79,7 +80,7 @@
 										</div>
 										<div class="box-text">
 											<h3>News Site clone</h3>
-											<p>This was a clone website challenge; a re-creation of a newspaper's homepage. The restrictions for the project included avoiding peeking at the source code; using only self-written code.</p>
+											<p>This was a clone website challenge; a re-creation of a newspaper's homepage. The restrictions for the project included avoiding looking at the source code. The re-creation is built using only self-written code.</p>
 										</div>
 									</a>
 									<div class="git-wrapper maintenance2">
@@ -104,7 +105,7 @@
 										</div>
 										<div class="box-text">
 											<h3>Cache Memory Simulation</h3>
-											<p> This is a small LRU cache solution which visualizes for the user the typical processes of an LRU cache system. Along with a designed terminal, the user is prompted to interact and enter values in the cache. This coincides with an ainmated table representing memory in space.</p>
+											<p> This is a small LRU cache solution which visualizes for the user the typical processes of an LRU cache system. Along with a designed terminal, the user is prompted to interact and enter values in the cache. This coincides with an animated table representing memory in space.</p>
 										</div>
 									</a>
 									<div class="git-wrapper maintenance3">
@@ -128,7 +129,7 @@
 										</div>
 										<div class="box-text">
 											<h3>API Data Collection</h3>
-											<p>This app gives its user the top search results of any Youtube search request. It does so by propting the user for a search query. The app then 'scrapes' Youtube's API, and returns the data in a compliled CSV spreadsheet. </p>
+											<p>This app gives its user the top search results of any Youtube search request. It does so by prompting the user for a search query. The app then 'scrapes' Youtube's API, and returns the data in a compliled CSV spreadsheet. </p>
 										</div>
 									</a>
 									<div class="git-wrapper maintenance4">
@@ -158,13 +159,12 @@
 
 				<!-- Contact -->
 				<article id="contact" class="wrapper style3">
-					<div class="container medium">
+					<div class="container style3">
 						<header>
 							<h2>Contact</h2>
 						</header>
 						<div class="row">
-							<div class="col-12 off-right-small">
-							<!-- <form method="post" action="#"> -->
+							<div class="col-12 pad-right-small">
 								  <form method="post" action="/">
 									<div class="row">
 										<div class="col-6-margin col-12-small">
@@ -194,9 +194,6 @@
 			</main>
 		</div>
 		<script src="{{ url_for('static', filename='js/portfolio.js')}}"></script>
-		<script data-cfasync="false" type="text/javascript"
-            src="https://cdn.rawgit.com/dwyl/learn-to-send-email-via-google-script-html-no-server/master/form-submission-handler.js">
-        </script>
 </body>
 </html>
 

@@ -6,14 +6,14 @@ let init = (function() {
 	{
 		if (window.location == "https://www.jasonbergland.com/projects")
 		{
-			let projectsY = document.getElementById('projects').offsetTop;
+			let projectsY = document.getElementById('projects').offsetTop; // returns the distance of the outer border of the current element relative to the inner border of the top of the offsetParent node. 
 			window.scrollTo(0, projectsY);
 		}
 	}
 	goProjects()
 	console.log(window.innerWidth)
 
-	// Scroll the y axis of browser's scroller. Function does this incrementally over a small period of time (calling itself every 1/50th of a second, 20 times)
+	// Recursive function. Scroll the y axis of browser's scroller incrementally over a short period of time (calling itself every 1/50th of a second, 20 times)
 	function moveScroll(i, locationY, increment) {
 		setTimeout(function(){
 		if (i)
@@ -27,7 +27,7 @@ let init = (function() {
 	// When nav or home buttons clicked window scrolls to that scroll height (location) of the web page
 	function navScroll2(button) 
 	{	
-		let locationY, trav, increment;
+		let locationY, scrollIncrement;
 		button = button.toLowerCase();
 		let section = document.getElementById(button).offsetTop;
 
@@ -38,21 +38,20 @@ let init = (function() {
 			return
 		}
 
-		// Adjust for window's top margin from section 'header'
-		if (window.innerWidth < 980 && window.innerWidth > 500)
+		// Find the the scrollIncrement in pixels needed to reach desired point on Y axis with 20 exections of moveScroll()
+		if (window.innerWidth < 980 && window.innerWidth > 500) // If statment: adjust offset for screen size
 		{
-			trav = ((section + 40) - locationY) / 20;
+			scrollIncrement = ((section + 40) - locationY) / 20;
 		}
 		else if (window.innerWidth <= 500){
 
-			trav = ((section + 10) - locationY) / 20;
+			scrollIncrement = ((section + 10) - locationY) / 20;
 		}
 		else {
-			trav = ((section - 20) - locationY) / 20;
+			scrollIncrement = ((section - 20) - locationY) / 20;
 		}
 
-		increment = trav;
-		moveScroll(20, locationY, increment);
+		moveScroll(20, locationY, scrollIncrement);
 	}
 	
 	// Functions manages opacity and padding in the the appearing of the section/content when scrolled or clicked.
@@ -60,6 +59,7 @@ let init = (function() {
 	{	
 		let padding = 10;
 		let opacity = 0;
+		// Recursively executes a delay for animated effect
 		(function delay(i, elem) 
 		{	
 			// SetTimeout (function to be ran, delay in ms)
@@ -117,7 +117,6 @@ let init = (function() {
 		{	
 			appear(10, contact)
 			contactFlag = false;
-			window.removeEventListener('scroll', appear);
 		}
 	}
 	let scrollListen = window.addEventListener('scroll', scrollManager);
@@ -154,14 +153,13 @@ let init = (function() {
 				navScroll2(htmlCol[i].firstChild.nodeValue)
 			})
 		}
+		// Add listener for home/logo button
+		document.querySelector('.home').addEventListener('click', () => {
+			navScroll2('top')
+		})
 	}
 	let navBtn = document.getElementsByClassName('nav-btn');
 	navBtnListeners(navBtn)
-
-	// Add listener for home/logo button
-	document.querySelector('.home').addEventListener('click', () => {
-		navScroll2('top')
-	})
 })()
 
 //  Notes to self =================
